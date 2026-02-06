@@ -1,2 +1,2 @@
 # MonkeyGame
-monkey D. NEIGHGUH
+Monkey Game
